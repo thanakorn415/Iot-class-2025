@@ -18,15 +18,15 @@
 
 ## 💾 SD Card Preparation
 
-- SD Card Size: ________ GB
-- OS Used: ☐ Raspberry Pi OS Lite ☐ Debian ARM64 ☐ Other: __________
-- Imaging Tool: ☐ Raspberry Pi Imager ☐ Balena Etcher ☐ dd ☐ Other
+- SD Card Size: 32 GB
+- OS Used: / Raspberry Pi OS Lite ☐ Debian ARM64 ☐ Other: __________
+- Imaging Tool: / Raspberry Pi Imager ☐ Balena Etcher ☐ dd ☐ Other
 
 ---
 
 ## 📛 Hostname Configuration
 
-- Hostname: `__________________________________`
+- Hostname: `gw6510301023`
 
 ---
 
@@ -35,7 +35,7 @@
 - Connection Method: ☐ Ethernet ☐ Wi-Fi
 - IP Configuration:
   - ☐ DHCP (Automatic)
-  - ☐ Static IP (Manual)
+  - / Static IP (Manual)
 
 ### ✏️ Iืnterfacef Static IP:
 
