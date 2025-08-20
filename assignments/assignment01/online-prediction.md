@@ -17,6 +17,5 @@
 
 ## ผลที่ได้จากการใช้ ML มีดังนี้
 
-<!-- แนบรูป Grafana  พร้อมอธิบาย -->
-## ภาพG1คือ ของIot sensor 0 dashboard
-## ภาพG2คือ ของIot fan prediction
+<img width="1121" height="540" alt="image" src="https://github.com/user-attachments/assets/2c8200b3-2f53-404a-bb29-162036614d34" />
+
