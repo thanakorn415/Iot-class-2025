@@ -17,5 +17,7 @@
 
 ## ผลที่ได้จากการใช้ ML มีดังนี้
 
-<img width="1121" height="540" alt="image" src="https://github.com/user-attachments/assets/2c8200b3-2f53-404a-bb29-162036614d34" />
+<img width="1855" height="931" alt="image" src="https://github.com/user-attachments/assets/27b10278-8c43-4bf4-94b6-bc488ab0b170" />
+
+
 
